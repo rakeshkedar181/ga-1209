@@ -1,0 +1,4 @@
+data_path:
+    train_data: C:/Rakesh/GreyAtom/Deployment/Document_Summarizer/data/Train
+    test_data: C:/Rakesh/GreyAtom/Deployment/Document_Summarizer/data/Test
+sentence_num: 3
