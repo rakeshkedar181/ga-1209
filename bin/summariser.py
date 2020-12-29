@@ -11,7 +11,7 @@ from preprocessor import PreprocessDoc
 class SummarizerDoc:
     
     def __init__(self):
-        with open('../config/config.yml','r') as fl:
+        with open('/config/config.yml','r') as fl:
             self.config = yaml.safe_load(fl)
         
     
