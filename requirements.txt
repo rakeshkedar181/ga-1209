@@ -3,4 +3,4 @@ nltk
 numpy
 flask
 gensim
-yaml
+pyyaml
