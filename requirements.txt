@@ -1,6 +1,6 @@
 pandas
 nltk
-sklearn
 numpy
 flask
 gensim
+yaml
