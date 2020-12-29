@@ -21,9 +21,6 @@ class SummarizerDoc:
         return text
         pass
     
-    def loadConfig(self):
-        pass
-    
     def splitSentences(self,text):
         """
         Split the paragraph into an array of sentences
