@@ -9,6 +9,6 @@ RUN git clone https://github.com/rakeshkedar181/ga-1209.git
 WORKDIR ga-1209
 RUN pip3 install -r requirements.txt
 copy dummy.txt rakesh/dummy.txt
-WORKDIR ga-1209/bin
+WORKDIR bin
 
 CMD ["python3" , "summaryService.py"]
