@@ -1,4 +1,4 @@
 data_path:
-    train_data: ga-1209/data/Train/Article1.txt
-    test_data: ga-1209/data/Test/Article1.txt
+    train_data: ../data/Train/Article1.txt
+    test_data: ../data/Test/Article1.txt
 sentence_num: 3
